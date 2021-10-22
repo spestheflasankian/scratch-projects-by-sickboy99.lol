@@ -1,6 +1,6 @@
 body{background:#d8efff}
 p{font-family:monospace;color:#383838;}
 h1{font-weight:bold;font-size:30px;text-align:center}
-.quote{color:blue;font-size:20px;font-style:italics;}
+.quote{color:blue;font-size:20px;font-style:italic;}
 .context{color:gray}
 h3:hover{background:green;text:orange;font-family:fantasy}
