@@ -3,4 +3,5 @@ p{font-family:monospace;color:#383838;}
 h1{font-weight:bold;font-size:30px;text-align:center}
 .quote{color: #33ccff;font-size:20px;font-style:italic;}
 .context{color: #cccccc}
+h1:hover{color:#006666}
 h3:hover{background:green;text:orange;font-family:fantasy}
